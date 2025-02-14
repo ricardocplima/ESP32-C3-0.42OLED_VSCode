@@ -33,12 +33,20 @@ thinger.io
 
 Adafruit NeoPixel 
 
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Libraries.png)
+
 
 # Sending the code to the ESP:
 
-Once the code is ready, click the "Build" button to verify if there are any errors. If no problem occurs, click the "Upload" button. The port should be automatically selected, but if problems occur it is recommended to check the COM port used.
+Once the code is ready, click the "Build" button to verify if there are any errors.
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Build.png)
 
-To start, you can use the sample code included in the file "file".
+If no problem occurs, click the "Upload" button. The port should be automatically selected, but if problems occur it is recommended to check the COM port used.
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Upload.png)
+
+
+To start, you can use the sample code included in the file "HelloWorld_Sample".
+
 
 # Source
 
