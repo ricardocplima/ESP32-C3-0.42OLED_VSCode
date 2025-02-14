@@ -7,11 +7,14 @@
 
 Install VSCode and install the PlatformIO extension.
 
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Extension.png)
+
 *Note that it is also required to install the C base requirements on your machine. For usage of C on VSCode, use the oficial site:
 https://code.visualstudio.com/docs/languages/cpp
 
 After instaling the extension, create a new project and select the board used in the project. Further testing is required, but the "Espressif ESP32-C3-DevKitM-1" board worked without problems so far.
-
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_NewProject.png)
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_SelectBoard.png)
 
 # The following Arduino libraries need to be installed
 You can install the libraries via the home page of PlatformIO
