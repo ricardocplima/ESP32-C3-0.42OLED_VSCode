@@ -20,6 +20,8 @@ After instaling the extension, create a new project and select the board used in
 # The following Arduino libraries need to be installed
 You can install the libraries via the home page of PlatformIO
 
+![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Libraries.png)
+
 u8g2
 
 OneBitDisplay
@@ -33,8 +35,6 @@ AnimatedGIF
 thinger.io
 
 Adafruit NeoPixel 
-
-![image](https://github.com/ricardocplima/ESP32-C3-0.42OLED_VSCode/blob/main/images/PlatformIO_Libraries.png)
 
 
 # Sending the code to the ESP:
@@ -55,4 +55,5 @@ To start, you can use the sample code included in the file "HelloWorld_Sample".
 # Source
 
 This repository was created using the following repository as inspiration, but applying it to VSCode:
+
 https://github.com/01Space/ESP32-C3-0.42LCD
